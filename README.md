@@ -1,8 +1,7 @@
 ## Jinu Park the SineQuaNon
 
 
-23.08.20 ~
-
+23.08.20 ~ \n
 I decided to become a Data Engineer
 
 I am the Masterpiece of Data Engineer in the Making
