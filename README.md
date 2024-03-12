@@ -2,6 +2,6 @@
 
 
 23.08.20 ~
-Pave the way for myself to be a Data Engineer
+Paving the way for myself to be a Data Engineer.
 
 ##수정중
