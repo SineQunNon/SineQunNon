@@ -1,4 +1,4 @@
-# Jinu Park the Sinequanon | Data Engineer in Progress 🚀
+# Jinu Park the Sinequanon
 
 ### 🛠 Tech Stack
 
@@ -10,9 +10,6 @@
 #### Big Data & Stream Processing
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-black?style=flat&logo=apache%20hadoop)
 ![Apache Spark](https://img.shields.io/badge/Spark-black?style=flat&logo=apache%20spark)
-
-### 🌱 Current Focus
-I'm actively learning and developing skills in data engineering, focusing on building scalable data pipelines and distributed systems. Every day is a new opportunity to grow!
 
 ---
 *"SineQuaNon" ..still editing
